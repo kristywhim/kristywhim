@@ -1,7 +1,7 @@
 ### Hello 你好 👋
 You have reached me.
 <img style="width:100%;height:3px;" src="./bar.gif" />
-<h3 align="center"> Data Researcher | Ex-statistics programming Intern @ <a href='https://www.lilly.com/'>Eli Lilly (LLY)</a> | Freelance Jouralist | Blogger | WannaBe Artist | Lifelong Learner
+<h3 align="center"> Data Researcher | Ex-statistical programming Intern @<a href='https://www.lilly.com/'>Eli Lilly (LLY)</a> | Freelance Jouralist | Blogger | WannaBe Artist | Lifelong Learner
 
 ## I little bit about me
 
