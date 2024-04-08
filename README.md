@@ -1,5 +1,5 @@
 ### Hello 你好 👋
-**You have reached *Krtypton M.***
+**You have reached *Krypton M.***
 <img style="width:100%;height:3px;" src="./bar.gif" />
 <h3 align="center"> Data Researcher | Ex-statistical programming Intern @<a href='https://www.lilly.com/'>Eli Lilly (LLY)</a> | Freelance Jouralist Director @<a href='https://aawea.org/'>AAWEA</a> | Blogger | WannaBe Artist
 
