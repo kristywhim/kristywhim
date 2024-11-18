@@ -12,4 +12,5 @@
 - ✉️ kma1@unc.edu
 - ---------------------------------------------------------------------------------------------
 
-Check my [page](https://kristywhim.netlify.app/) to get to know me a little better.
+[Profession page](https://kristywhim.netlify.app/)
+[About Me](https://classy-whim.notion.site/Krypton-s-Instruction-Manual-13909476ffca8079a8b5edde901505a0?pvs=4)
