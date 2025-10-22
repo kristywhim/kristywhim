@@ -5,8 +5,8 @@
 
 ## About me
 
-- 🌱 Currently a Master's student in **Biostatistics** at [University of North Carolina at Chapel Hill](https://sph.unc.edu/bios/biostatistics/).  
-  Graduated from [Macalester College](https://www.macalester.edu/) in 2023 with a **B.A. in Statistics**, plus minors in **Biology** and **Computer Science**.  
+- 🌱 A Master's Graduate in **Biostatistics** from [University of North Carolina at Chapel Hill](https://sph.unc.edu/bios/biostatistics/).  
+  Graduated from [Macalester College](https://www.macalester.edu/) in 2023 with a **B.A. in Statistics**, with minors in **Biology** and **Computer Science**.  
 - 🧬 **Research:** Worked with [Dr. Xihao Li](https://github.com/li-lab-genetics) on statistical methods for rare genetic variants — combining data science and genetics to better understand complex diseases.  
 - 📊 **Professional Experience:**  
   - **[Eli Lilly (LLY)](https://www.lilly.com/)** — Supported biomedical data projects using biostatistics and analytics to improve clinical insights.  
